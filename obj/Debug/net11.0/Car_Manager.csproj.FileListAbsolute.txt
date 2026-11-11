@@ -1,0 +1,16 @@
+C:\Users\joeln\Car_Manager\bin\Debug\net11.0\Car_Manager.exe
+C:\Users\joeln\Car_Manager\bin\Debug\net11.0\Car_Manager.deps.json
+C:\Users\joeln\Car_Manager\bin\Debug\net11.0\Car_Manager.runtimeconfig.json
+C:\Users\joeln\Car_Manager\bin\Debug\net11.0\Car_Manager.runtimeconfig.dev.json
+C:\Users\joeln\Car_Manager\bin\Debug\net11.0\Car_Manager.dll
+C:\Users\joeln\Car_Manager\bin\Debug\net11.0\Car_Manager.pdb
+C:\Users\joeln\Car_Manager\obj\Debug\net11.0\Car_Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeln\Car_Manager\obj\Debug\net11.0\Car_Manager.AssemblyInfoInputs.cache
+C:\Users\joeln\Car_Manager\obj\Debug\net11.0\Car_Manager.AssemblyInfo.cs
+C:\Users\joeln\Car_Manager\obj\Debug\net11.0\Car_Manager.csproj.CoreCompileInputs.cache
+C:\Users\joeln\Car_Manager\obj\Debug\net11.0\Car_Manager.dll
+C:\Users\joeln\Car_Manager\obj\Debug\net11.0\refint\Car_Manager.dll
+C:\Users\joeln\Car_Manager\obj\Debug\net11.0\Car_Manager.pdb
+C:\Users\joeln\Car_Manager\obj\Debug\net11.0\Car_Manager.genruntimeconfig.cache
+C:\Users\joeln\Car_Manager\obj\Debug\net11.0\ref\Car_Manager.dll
+C:\Users\joeln\Car_Manager\obj\Debug\net11.0\Car_Mana.63DC61C4.Up2Date
